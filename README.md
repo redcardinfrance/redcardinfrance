@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redcardinfrance
-- 👀 I’m interested in ...learning Pythgon for data analysis
+- 👀 I’m interested in ...learning Python for data analysis
 - 🌱 I’m currently learning ...Pyton 
-- 💞️ I’m looking to collaborate on ... whatever sounds interesting 
+- 💞️ I’m looking to collaborate on ... whatever sounds interesting, including any projects related to leanguage learning, cycling, chess
 - 📫 How to reach me ...I guess one can send private messages here? No idea
 
 <!---
